@@ -1,3 +1,0 @@
-"This is my first git repo project"
-"This is the first change made"
-"This is the second Change"
