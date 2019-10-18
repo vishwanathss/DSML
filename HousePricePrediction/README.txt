@@ -1,4 +1,4 @@
-case study:House Prie Prediction
+case study:House Price Prediction-Linear Regresson
 
 Objective: Which factors are affecting the house price
 
